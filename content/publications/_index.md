@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+<a class="cv-download" href="https://scholar.google.com/citations?user=tfYEbzEAAAAJ&hl=en" target="_blank">View on Google Scholar</a>
+
 *Underline indicates undergraduate/graduate student mentee. \*co-first author.*
 
 ---
