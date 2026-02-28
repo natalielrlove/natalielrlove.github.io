@@ -12,6 +12,24 @@ theme = "lovelab"
   institution = "Chicago Botanic Garden & Northwestern University"
   email = "nlove@chicagobotanic.org"
 
+  # Hero section
+  heroTitle    = "Love Lab"
+  heroSubtitle = "Urban Ecology & Conservation · Chicago Botanic Garden & Northwestern University"
+  heroText     = "We study how biodiversity shapes ecosystem function and services in cities — and what urban green spaces can offer for plant conservation."
+  # heroPhoto    = "/images/members/natalie-love.jpg"   # uncomment when photo is added
+  # heroBgImage  = "/images/hero-bg.jpg"                # uncomment when background photo is added
+
+  # Research highlight cards (home page)
+  [[params.highlights]]
+    title = "Biodiversity & Ecosystem Function"
+    text  = "How does plant diversity affect urban cooling, microclimate, and ecosystem services? We study lawns, street trees, and parks across Chicago."
+  [[params.highlights]]
+    title = "Urban Forests as Conservation Tools"
+    text  = "Cities host hundreds of threatened tree species. We ask how urban forests can serve as living conservation collections while building resilience."
+  [[params.highlights]]
+    title = "Environmental Equity"
+    text  = "Is vegetation quality — not just quantity — inequitably distributed? We link remote sensing data to sociodemographic patterns across Chicago."
+
 [menu]
   [[menu.main]]
     name = "Home"

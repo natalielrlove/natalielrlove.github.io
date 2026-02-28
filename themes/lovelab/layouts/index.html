@@ -1,17 +1,38 @@
 {{ define "main" }}
-<section class="hero">
+
+<!-- Hero -->
+<section class="hero" {{ with .Site.Params.heroBgImage }}style="--hero-bg: url('{{ . }}')"{{ end }}>
   <div class="hero-inner">
     {{ with .Site.Params.heroPhoto }}
     <img class="hero-photo" src="{{ . }}" alt="Natalie Love">
     {{ end }}
     <div class="hero-text">
-      <h1>Love Lab</h1>
-      <p class="subtitle">Urban Ecology &amp; Conservation · Chicago Botanic Garden &amp; Northwestern University</p>
+      <h1>{{ .Site.Params.heroTitle | default "Love Lab" }}</h1>
+      <p class="subtitle">{{ .Site.Params.heroSubtitle | default "Urban Ecology &amp; Conservation · Chicago Botanic Garden &amp; Northwestern University" }}</p>
       <p>{{ .Site.Params.heroText }}</p>
+      <a class="hero-cta" href="/research/">Our Research →</a>
     </div>
   </div>
 </section>
-<div class="page">
+
+<!-- Research highlight cards -->
+<section class="highlights">
+  <div class="highlights-inner">
+    <h2>Research Areas</h2>
+    <div class="highlight-cards">
+      {{ range .Site.Params.highlights }}
+      <div class="highlight-card">
+        <h3>{{ .title }}</h3>
+        <p>{{ .text }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- News / home body content -->
+<div class="home-content">
   {{ .Content }}
 </div>
+
 {{ end }}
