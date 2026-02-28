@@ -1,0 +1,154 @@
+/* ===========================
+   Love Lab — main stylesheet
+   =========================== */
+
+:root {
+  --green:       #2d6a4f;
+  --green-light: #52b788;
+  --green-pale:  #d8f3dc;
+  --text:        #1a1a1a;
+  --text-muted:  #555;
+  --border:      #e0e0e0;
+  --bg:          #ffffff;
+  --bg-alt:      #f7f9f7;
+  --max-width:   900px;
+  --font:        -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font);
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+a { color: var(--green); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+img { max-width: 100%; height: auto; display: block; }
+
+/* ── Navigation ── */
+nav {
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.nav-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+}
+.nav-brand { font-weight: 700; font-size: 1.1rem; color: var(--green); letter-spacing: -0.02em; }
+.nav-brand:hover { text-decoration: none; }
+.nav-links { display: flex; gap: 2rem; list-style: none; }
+.nav-links a { color: var(--text-muted); font-size: 0.95rem; }
+.nav-links a:hover { color: var(--green); text-decoration: none; }
+.nav-links a.active { color: var(--green); font-weight: 600; }
+
+/* ── Page wrapper ── */
+.page { max-width: var(--max-width); margin: 0 auto; padding: 3rem 1.5rem; }
+
+/* ── Hero (home page) ── */
+.hero {
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--border);
+  padding: 4rem 1.5rem;
+}
+.hero-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}
+.hero-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 3px solid var(--green-pale);
+}
+.hero-text h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.03em; margin-bottom: 0.25rem; }
+.hero-text .subtitle { color: var(--green); font-size: 1rem; margin-bottom: 1rem; font-weight: 500; }
+.hero-text p { color: var(--text-muted); font-size: 0.97rem; }
+
+/* ── Section headings ── */
+h1 { font-size: 1.9rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 1.5rem; }
+h2 { font-size: 1.3rem; font-weight: 700; color: var(--green); margin: 2.5rem 0 0.75rem; padding-bottom: 0.4rem; border-bottom: 2px solid var(--green-pale); }
+h3 { font-size: 1.05rem; font-weight: 600; margin: 1.5rem 0 0.4rem; }
+p  { margin-bottom: 1rem; }
+
+/* ── Research page ── */
+.research-section { margin-bottom: 3rem; }
+.research-section p { color: var(--text-muted); }
+.pub-list { list-style: none; padding: 0; margin-top: 0.75rem; }
+.pub-list li { font-size: 0.9rem; color: var(--text-muted); padding: 0.4rem 0; border-bottom: 1px solid var(--border); }
+.pub-list li:last-child { border-bottom: none; }
+.pub-list a { color: var(--green); }
+
+/* ── Publications page ── */
+.pub-year { font-size: 1.1rem; font-weight: 700; color: var(--green); margin: 2rem 0 0.5rem; }
+.pub-entry { padding: 0.75rem 0; border-bottom: 1px solid var(--border); font-size: 0.93rem; }
+.pub-entry:last-child { border-bottom: none; }
+.pub-entry .pub-title { font-weight: 600; }
+.pub-entry .pub-journal { font-style: italic; }
+.pub-entry .pub-doi { font-size: 0.85rem; }
+.pub-entry .pub-authors em { font-style: normal; font-weight: 600; }
+
+/* ── Members page ── */
+.members-group { margin-bottom: 3rem; }
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+.member-card { text-align: center; }
+.member-card img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 0.75rem;
+  border: 2px solid var(--green-pale);
+}
+.member-card .member-name { font-weight: 600; font-size: 0.97rem; }
+.member-card .member-degree { font-size: 0.85rem; color: var(--text-muted); }
+.member-card .member-research { font-size: 0.83rem; color: var(--text-muted); margin-top: 0.4rem; font-style: italic; }
+
+/* ── CV page ── */
+.cv-section { margin-bottom: 2.5rem; }
+.cv-row { display: grid; grid-template-columns: 120px 1fr; gap: 1rem; padding: 0.5rem 0; border-bottom: 1px solid var(--border); font-size: 0.93rem; }
+.cv-row:last-child { border-bottom: none; }
+.cv-year { color: var(--text-muted); font-size: 0.88rem; }
+.cv-download { display: inline-block; margin-bottom: 2rem; padding: 0.6rem 1.4rem; background: var(--green); color: white; border-radius: 4px; font-size: 0.9rem; font-weight: 500; }
+.cv-download:hover { background: #1f4f3a; text-decoration: none; }
+
+/* ── Footer ── */
+footer {
+  background: var(--bg-alt);
+  border-top: 1px solid var(--border);
+  text-align: center;
+  padding: 2rem 1.5rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-top: 4rem;
+}
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .hero-inner { flex-direction: column; text-align: center; }
+  .hero-text h1 { font-size: 1.6rem; }
+  .nav-links { gap: 1rem; }
+  .cv-row { grid-template-columns: 1fr; }
+}

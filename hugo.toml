@@ -1,0 +1,35 @@
+baseURL = "https://natalie-love.com/"
+languageCode = "en-us"
+title = "Love Lab"
+theme = "lovelab"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = "The Love Lab studies urban biodiversity, ecosystem function, and conservation at the Chicago Botanic Garden and Northwestern University."
+  author = "Natalie Love"
+  institution = "Chicago Botanic Garden & Northwestern University"
+  email = "nlove@chicagobotanic.org"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+  [[menu.main]]
+    name = "Members"
+    url = "/members/"
+    weight = 4
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 5

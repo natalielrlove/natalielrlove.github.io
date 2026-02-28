@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-inner">
+    {{ with .Site.Params.heroPhoto }}
+    <img class="hero-photo" src="{{ . }}" alt="Natalie Love">
+    {{ end }}
+    <div class="hero-text">
+      <h1>Love Lab</h1>
+      <p class="subtitle">Urban Ecology &amp; Conservation · Chicago Botanic Garden &amp; Northwestern University</p>
+      <p>{{ .Site.Params.heroText }}</p>
+    </div>
+  </div>
+</section>
+<div class="page">
+  {{ .Content }}
+</div>
+{{ end }}
