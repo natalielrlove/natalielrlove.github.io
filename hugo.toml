@@ -16,7 +16,7 @@ theme = "lovelab"
   heroTitle    = "Love Lab"
   heroSubtitle = "Urban Ecology & Conservation · Chicago Botanic Garden & Northwestern University"
   heroText     = "We study how biodiversity shapes ecosystem function and services in cities — and what urban green spaces can offer for plant conservation. Our lab is part of the <a href='https://www.chicagobotanic.org/research/negaunee' target='_blank' style='color:var(--green-light)'>Negaunee Institute for Plant Conservation Science and Action</a> at the Chicago Botanic Garden."
-  # heroPhoto    = "/images/members/natalie-love.jpg"   # uncomment when photo is added
+  heroPhoto    = "/images/members/natalie-love.jpg"
   heroBgImage  = "/images/hero-bg.jpg"
 
   # Research highlight cards (home page)
