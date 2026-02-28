@@ -9,7 +9,7 @@
     <div class="hero-text">
       <h1>{{ .Site.Params.heroTitle | default "Love Lab" }}</h1>
       <p class="subtitle">{{ .Site.Params.heroSubtitle | default "Urban Ecology &amp; Conservation · Chicago Botanic Garden &amp; Northwestern University" }}</p>
-      <p>{{ .Site.Params.heroText }}</p>
+      <p>{{ .Site.Params.heroText | safeHTML }}</p>
       <a class="hero-cta" href="/research/">Our Research →</a>
     </div>
   </div>
