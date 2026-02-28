@@ -1,12 +1,15 @@
 ---
 title: "Research"
+description: "We use remote sensing, field experiments, and large existing datasets to study how biodiversity and vegetation structure shape ecosystem function and services in cities — and who benefits."
 ---
 
-Urban green spaces — parks, street trees, and lawns — provide essential services for city residents, from cooling neighborhoods on hot days to supporting wildlife and connecting people to nature. But these benefits are not equally accessible, and the role of biodiversity in generating them is poorly understood. Our lab uses remote sensing, field experiments, and large existing datasets to study how biodiversity and vegetation structure shape ecosystem function and services in cities — and who benefits.
+Urban green spaces — parks, street trees, and lawns — provide essential services for city residents, from cooling neighborhoods on hot days to supporting wildlife and connecting people to nature. But these benefits are not equally accessible, and the role of biodiversity in generating them is poorly understood. Our lab works across spatial scales — from plot-level field experiments to city-wide remote sensing to global tree inventories — united by a commitment to understanding and improving urban landscapes for both people and plants.
 
 ---
 
 ## Biodiversity and Ecosystem Function
+
+<img class="section-photo" src="/images/chicago-street-trees.jpg" alt="Tree-lined street in Chicago">
 
 A growing body of research shows that biodiversity improves productivity and ecosystem function in natural systems — but does this hold in cities? We study how the diversity and structure of urban vegetation affect key ecosystem services, with a focus on microclimate regulation and cooling.
 
@@ -22,9 +25,19 @@ At the tree scale, higher species diversity is associated with lower urban tempe
 
 ## Urban Forests as Conservation Tools
 
+<div class="clearfix">
+<img class="section-photo-side" src="/images/kentucky-coffeetree.jpg" alt="Kentucky coffeetree in Chicago">
+
 Urban forests are often overlooked as conservation resources, but cities collectively host hundreds of threatened tree species. Using the Global Urban Tree Inventory (>12 million individual trees, 4,700+ species, 473+ cities), we found that 380 threatened tree species are cultivated across 525 cities worldwide — including many that are endangered or critically endangered in their native ranges.
 
-Planting threatened species is not enough, however: the genetic diversity of urban populations matters too. We are investigating the intraspecific genetic diversity of urban tree populations, using Kentucky coffeetree (*Gymnocladus dioicus*) — an IUCN red-listed species and common urban tree in Chicago — as a model system. We are asking how genetically diverse Chicago's urban coffeetree population is, whether urban trees are sourced from multiple wild populations, and whether genetic variation is linked to functional traits relevant to heat and drought tolerance. This work connects urban forestry management with ex situ plant conservation, suggesting that cities can serve as living conservation collections while simultaneously building more resilient urban forests.
+Planting threatened species is not enough, however: the **genetic diversity** of urban populations matters too. Chicago's history makes this urgent. Heavy reliance on American elm, then genetically uniform ash, led to catastrophic waves of canopy loss from Dutch elm disease and the emerald ash borer. Now, the Kentucky coffeetree (*Gymnocladus dioicus*) — a Midwest native and popular ash replacement — is being planted widely across Chicagoland. If these plantings lack genetic diversity, the stage may be set for a third wave of urban canopy collapse.
+
+Our lab is conducting the first baseline assessment of genetic diversity in urban Kentucky coffeetree populations in Chicago. We are sampling 100 cultivated trees across an age gradient — from newly planted saplings to fully established adults — to understand how genetic diversity changes over time as nursery practices evolve. We are also developing a custom amplicon panel, a reusable genotyping tool that will enable rapid, standardized genetic assessment of coffeetrees across cities, regions, and research questions well into the future.
+
+To understand what fraction of wild genetic diversity is captured in urban plantings, we are comparing urban trees to range-wide wild populations using two exceptional living collections: the USDA North Central Regional Plant Introduction Station and the Brenton Arboretum in Iowa, which together represent the full geographic range of the species. This comparison will reveal whether urban cultivation filters genetic variation — and if so, how much diversity is lost in the transition from wild forest to city street.
+
+The results will directly inform urban forest management. By identifying whether current plantings are genetically diverse or dangerously uniform, we can guide sourcing strategies that build long-term canopy resilience — and ensure that Chicago's coffeetree-lined streets don't become the next casualty of a preventable outbreak.
+</div>
 
 **Selected publications:**
 
@@ -35,6 +48,8 @@ Planting threatened species is not enough, however: the genetic diversity of urb
 ---
 
 ## Environmental Equity and Socioecological Patterns
+
+<img class="section-photo" src="/images/chicago-fall-trees.jpg" alt="Chicago neighborhood street trees in fall">
 
 Urban green space and vegetation cover are inequitably distributed — a pattern tied across U.S. cities to legacies of redlining and income inequality. But inequity in the *quantity* of green space may be compounded by inequity in *quality*. We ask: does vegetation sensitivity to climate — how much vegetation health declines during heat waves and drought — also vary among communities?
 
