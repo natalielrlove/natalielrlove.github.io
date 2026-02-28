@@ -1,6 +1,17 @@
 ---
-title: "CV"
+title: "Contact & CV"
 ---
+
+## Contact
+
+<div class="cv-section">
+<div class="cv-row"><span class="cv-year">Email</span><span><a href="mailto:nlove@chicagobotanic.org">nlove@chicagobotanic.org</a></span></div>
+<div class="cv-row"><span class="cv-year">CBG profile</span><span><a href="https://www.chicagobotanic.org/research/staff/love" target="_blank">Chicago Botanic Garden — Negaunee Institute for Plant Conservation Science and Action</a></span></div>
+</div>
+
+---
+
+## CV
 
 <a class="cv-download" href="/files/Love_CV.pdf" target="_blank">Download Full CV (PDF)</a>
 
