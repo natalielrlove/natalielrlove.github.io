@@ -13,7 +13,8 @@ Urban green spaces — parks, street trees, and natural areas — provide essent
 
 A growing body of research shows that biodiversity improves productivity and ecosystem function in natural systems — but does this hold in cities? We study how the diversity and structure of urban vegetation affect key ecosystem services, with a focus on microclimate regulation and cooling.
 
-At the tree scale, higher species diversity is associated with lower urban temperatures. Using California's urban forest inventory (over 7 million individual trees), we showed that street tree diversity mitigates urban heat independent of canopy cover. At the plot scale, we are testing whether diverse alternative lawn plantings — native meadow, sedge lawns, and prairie — outperform conventional turf in cooling capacity during heat and drought events, through an ongoing field experiment across five Chicago parks. We also use satellite-based land surface temperature and vegetation index data to scale these questions across Chicago and beyond.
+At the tree scale, higher species diversity is associated with lower urban temperatures. Using California's urban forest inventory (over 7 million individual trees), we showed that street tree diversity mitigates urban heat independent of canopy cover. At the plot scale, we are testing whether diverse alternative lawn plantings, including native meadow and prairie, outperform conventional turf in cooling capacity during the summer, through an ongoing field experiment across five Chicago parks. This work is part of the [Rethinking Lawns Project](https://rethinkinglawns.com), an on-going collaborative effort between the Chicago Botanic Garden, the Chicago Park District, and the University of Michigan, Flint.
+We also use satellite-based land surface temperature and vegetation index data to scale these questions across Chicago and beyond.
 
 **Selected publications:**
 
