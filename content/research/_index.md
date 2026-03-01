@@ -3,7 +3,7 @@ title: "Research"
 description: "We use remote sensing, field experiments, and large existing datasets to study how biodiversity and vegetation structure shape ecosystem function and services in cities — and who benefits."
 ---
 
-Urban green spaces — parks, street trees, and lawns — provide essential services for city residents, from cooling neighborhoods on hot days to supporting wildlife and connecting people to nature. But these benefits are not equally accessible, and the role of biodiversity in generating them is poorly understood. Our lab works across spatial scales — from plot-level field experiments to city-wide remote sensing to global tree inventories — united by a commitment to understanding and improving urban landscapes for both people and plants.
+Urban green spaces — parks, street trees, and natural areas — provide essential services for city residents, from cooling neighborhoods on hot days to supporting wildlife and connecting people to nature. But the role of biodiversity in generating benefits is poorly understood and they are often not equally accessible. Our lab works across spatial scales — from plot-level field experiments to city-wide remote sensing to global tree inventories — united by a commitment to understanding and improving urban landscapes for both people and plants.
 
 ---
 
