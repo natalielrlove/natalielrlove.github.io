@@ -8,10 +8,26 @@ title: "Publications"
 
 ---
 
+### 2026
+
+<div class="pub-entry">
+<span class="pub-authors">Esperon-Rodriguez, M., R.V. Gallagher, S. Arndt, ..., <em>N.L.R. Love</em>, ..., and M.G. Tjoelker.</span> 2026. Rethinking urban forests as essential infrastructure for resilience, equity, and biodiversity in the current climate emergency. <span class="pub-journal">PLOS Climate</span> 5(7): e0000953. <span class="pub-doi"><a href="https://doi.org/10.1371/journal.pclm.0000953">https://doi.org/10.1371/journal.pclm.0000953</a></span>
+</div>
+
+<div class="pub-entry">
+<span class="pub-authors">Esperon-Rodriguez, M., R. Gallagher, S.A. Power, ..., <em>N.L.R. Love</em>, ..., and M.G. Tjoelker.</span> 2026. Climate change may severely compromise urban forest ecosystem services across North America and Europe. <span class="pub-journal">Research Square</span> (preprint). <span class="pub-doi"><a href="https://doi.org/10.21203/rs.3.rs-9195677/v1">https://doi.org/10.21203/rs.3.rs-9195677/v1</a></span>
+</div>
+
+<div class="pub-entry">
+<span class="pub-authors">Esperon-Rodriguez, M., S. Arndt, M.O. Asibey, ..., <em>N.L.R. Love</em>, ..., and M.G. Tjoelker.</span> 2026. Urban forests as essential infrastructure for climate resilience and biodiversity: A call to policymakers. <span class="pub-journal">Plants, People, Planet</span> 8(1): 14–19. <span class="pub-doi"><a href="https://doi.org/10.1002/ppp3.70125">https://doi.org/10.1002/ppp3.70125</a></span>
+</div>
+
+---
+
 ### 2025
 
 <div class="pub-entry">
-<span class="pub-authors">Arreguin, S., J.F. Walker, and <em>N.L.R. Love</em>.</span> 2025. Leveraging public data to facilitate urban eco-evo research. <span class="pub-journal">EcoEvoRxiv.</span> <span class="pub-doi"><a href="https://doi.org/10.32942/X2CS9C">https://doi.org/10.32942/X2CS9C</a></span>
+<span class="pub-authors">Arreguin, S., J.F. Walker, and <em>N.L.R. Love</em>.</span> 2025. Leveraging publicly available data to facilitate urban ecology and evolution. <span class="pub-journal">EcoEvoRxiv</span> (preprint). <span class="pub-doi"><a href="https://doi.org/10.32942/X2CS9C">https://doi.org/10.32942/X2CS9C</a></span>
 </div>
 
 <div class="pub-entry">
@@ -24,6 +40,10 @@ title: "Publications"
 
 <div class="pub-entry">
 <span class="pub-authors">Cho, A., <em>N.L.R. Love</em>, R. Cintron, J. Nicholson, L. Xu, G.C. Nunez Mir, J. Lee, M. Berkelhammer, and M.A. Gonzalez-Meler.</span> 2025. Plant species selection and participatory community co-design are essential in balancing ecosystem services and disservices in urban areas. <span class="pub-journal">Environmental Research Letters</span> 20(5): 051003. <span class="pub-doi"><a href="https://doi.org/10.1088/1748-9326/adc944">https://doi.org/10.1088/1748-9326/adc944</a></span>
+</div>
+
+<div class="pub-entry">
+<span class="pub-authors">Lynch, S.C., E. Reyes-Gonzalez, E.L. Bossard, K.S. Alarcon, <em>N.L.R. Love</em>, A.D. Hollander, B.E. Nobua-Behrmann, and G.S. Gilbert.</span> 2025. A phylogenetic epidemiology approach to predicting the establishment of multi-host plant pests. <span class="pub-journal">Communications Biology</span> 8: 117. <span class="pub-doi"><a href="https://doi.org/10.1038/s42003-025-07540-y">https://doi.org/10.1038/s42003-025-07540-y</a></span>
 </div>
 
 ---

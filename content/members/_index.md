@@ -53,5 +53,11 @@ title: "Members"
     <div class="member-degree">MS Student, Northwestern University</div>
     <div class="member-research">Can lawn alternatives mitigate heat in urban landscapes?</div>
   </div>
+  <div class="member-card">
+    <img src="/images/members/cari-schuette.jpg" alt="Cari Schuette">
+    <div class="member-name">Cari Schuette</div>
+    <div class="member-degree">MS Student, Northwestern University</div>
+    <div class="member-research">Assessing how urban tree planting initiatives in Chicago contribute to biodiversity</div>
+  </div>
 </div>
 </div>

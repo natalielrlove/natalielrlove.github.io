@@ -33,12 +33,16 @@ Urban forests are often overlooked as conservation resources, but cities collect
 
 Planting threatened species is not enough, however: the **genetic diversity** of urban populations matters too. Chicago's history makes this urgent. Heavy reliance on American elm, then genetically uniform ash, led to catastrophic waves of canopy loss from Dutch elm disease and the emerald ash borer. Now, the Kentucky coffeetree (*Gymnocladus dioicus*) — a Midwest native and popular ash replacement — is being planted widely across Chicagoland. If these plantings lack genetic diversity, the stage may be set for a third wave of urban canopy collapse.
 
-Our lab is conducting the first baseline assessment of genetic diversity in urban Kentucky coffeetree populations in Chicago. We are sampling 100 cultivated trees across an age gradient — from newly planted saplings to fully established adults — to understand how genetic diversity changes over time as nursery practices evolve. We are also developing a custom amplicon panel, a reusable genotyping tool that will enable rapid, standardized genetic assessment of coffeetrees across cities, regions, and research questions well into the future.
+Our lab is conducting the first baseline assessment of genetic diversity in urban Kentucky coffeetree populations in Chicago. We are sampling 100 cultivated trees across an age gradient — from newly planted saplings to fully established adults — to understand how genetic diversity changes over time as nursery practices evolve. We are also prioritizing sequencing methods that will enable standardized genetic assessment of coffeetrees across cities and regions.
 
 To understand what fraction of wild genetic diversity is captured in urban plantings, we are comparing urban trees to range-wide wild populations using two exceptional living collections: the USDA North Central Regional Plant Introduction Station and the Brenton Arboretum in Iowa, which together represent the full geographic range of the species. This comparison will reveal whether urban cultivation filters genetic variation — and if so, how much diversity is lost in the transition from wild forest to city street.
 
 The results will directly inform urban forest management. By identifying whether current plantings are genetically diverse or dangerously uniform, we can guide sourcing strategies that build long-term canopy resilience — and ensure that Chicago's coffeetree-lined streets don't become the next casualty of a preventable outbreak.
 </div>
+
+This work is moving from assessment into practice through the **Urban Tree Conservation Network**, our on-the-ground partnership with urban forestry managers across the Chicago region.
+
+<a class="page-cta" href="/research/urban-tree-conservation-network/">Explore the Urban Tree Conservation Network →</a>
 
 **Selected publications:**
 
