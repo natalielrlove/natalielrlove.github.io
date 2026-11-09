@@ -18,10 +18,10 @@ title: "Members"
 <h2>PhD Students</h2>
 <div class="members-grid">
   <div class="member-card">
-    <img src="/images/members/placeholder.jpg" alt="Kat Shay">
+    <img src="/images/members/kat-shay.jpg" alt="Kat Shay">
     <div class="member-name">Kat Shay</div>
     <div class="member-degree">PhD Student, Northwestern University</div>
-    <div class="member-research">The role of management practices in the structure and function of urban forests in Chicago</div>
+    <div class="member-research">Kat is broadly interested in drought dynamics, oak regeneration, and plant physiology in oak-hickory forests and woodlands. She uses remote sensing, ecophysiology, and traditional field methods to explore questions on these topics.</div>
   </div>
   <div class="member-card">
     <img src="/images/members/placeholder.jpg" alt="Ashley Rasmussen">
